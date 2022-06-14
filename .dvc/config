@@ -1,6 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = s3://kc-mgrushina-6/dvcstore
-    region = ru-central1
-    endpointurl = https://storage.yandexcloud.net
+    url = gdrive://1Yi3ceSPhSAQdslWU6SZRhBskuc-RW4sF/
